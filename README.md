@@ -4,6 +4,6 @@ ENSURE MONGODB CLUSTER IS RUNNING
 
 Should run on port 3000
 
-Should connect with petryka-final-backend
+Should connect with petryka-final-frontend
 
 Both run at the same time in two tabs on terminal
